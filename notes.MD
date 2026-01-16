@@ -1,0 +1,1 @@
+- First build the project using `dotnet build` and then execute the command `dotnet run`.
